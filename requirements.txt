@@ -1,0 +1,4 @@
+Pillow>=10.0
+pytesseract>=0.3.10
+yt-dlp>=2025.1.15
+python-dotenv>=1.0
